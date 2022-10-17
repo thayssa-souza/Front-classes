@@ -1,0 +1,19 @@
+*{
+    margin:0.5vh;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.text{
+    margin-top:3vh;
+}
+
+.firstLogo{
+    width:15vw;
+    height:25vh;
+}
+
+.secondLogo{
+    width:30vw;
+    height:60vh;
+}
