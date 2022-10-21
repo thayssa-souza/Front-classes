@@ -18,7 +18,7 @@ header{
 header div{
     border:solid #c69552;
     width:20vw;
-    margin-top:1.5vh;
+    margin-top:2vh;
 }
 
 h2{
@@ -44,4 +44,25 @@ iframe{
     border:solid 5px #c69552;
     margin-left:30vw;
     margin-top:12vh;
+}
+
+@media screen and (min-width:360px) and (max-width:800px)    
+{
+    header div{
+        width:70vw;
+    }
+
+    main img{
+        width: 100%;
+        margin-bottom:3vh;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+    iframe{
+        width:100%;
+        margin-left:0vw;
+    }
 }
