@@ -41,7 +41,7 @@ h1{
 }
 
 iframe{
-    border:solid blue;
+    border:solid 5px #c69552;
     margin-left:23vw;
     margin-top:10vh;
 }
